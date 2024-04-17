@@ -1,0 +1,11 @@
+ID Vendedor,Nombre,Edad,Archivos
+1001,Vendedor 1,35,archivo_30.txt
+1002,Vendedor 2,44,archivo_54.txt; archivo_109.txt; archivo_27.txt
+1003,Vendedor 3,50,archivo_168.txt; archivo_247.txt
+1004,Vendedor 4,53,archivo_117.txt; archivo_45.txt
+1005,Vendedor 5,31,archivo_998.txt; archivo_495.txt
+1006,Vendedor 6,40,archivo_921.txt; archivo_6.txt; archivo_182.txt
+1007,Vendedor 7,51,archivo_800.txt
+1008,Vendedor 8,47,archivo_440.txt; archivo_236.txt; archivo_917.txt
+1009,Vendedor 9,35,archivo_860.txt; archivo_546.txt; archivo_322.txt
+1010,Vendedor 10,42,archivo_932.txt; archivo_302.txt; archivo_94.txt
